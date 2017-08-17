@@ -2,6 +2,8 @@
 
 Playground for D3.JS
 
+![Screenshot of d3js](https://github.com/jprecigout/angular-d3-js/blob/master/src/assets/screenshot.png)
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
